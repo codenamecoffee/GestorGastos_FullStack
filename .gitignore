@@ -1,0 +1,108 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.userprefs
+
+# IIS Express
+.vsconfig
+*.vspscc
+*.vssscc
+*.scc
+*.dbmdl
+
+# Database files
+*.mdf
+*.ldf
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish
+publish/
+*.Publish.xml
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Dotnet user-secrets
+secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Entity Framework Migrations snapshot files (optional, si no quieres versionar los snapshots)
+_MigrationsHistory/
+
+# Node / Angular (frontend)
+node_modules/
+dist/
+build/
+out-tsc/
+.angular/
+.angular-cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log
+.pnpm-debug.log*
+
+# TypeScript incremental build info
+tsconfig.tsbuildinfo
+
+# Local env / secret files
+.env
+.env.*.local
+.env.local
+
+# VS Code
+.vscode/
+
+# Caches / tooling
+.cache/
+.eslintcache
+.parcel-cache/
+
+# Test coverage / reports
+coverage/
+coverage-*
+test-results/
+
+# Misc
+npm-packages-offline-cache/
+*.log
+
+# Script files
+*.ps1

@@ -1,0 +1,31 @@
+<div class="widget"
+     [style.left.px]="position.x"
+     [style.top.px]="position.y"
+     [style.width.px]="size.width"
+     [style.height.px]="size.height">
+
+  <div class="handler-layer">
+    <div class="widget-header" (mousedown)="startDrag($event)">
+      <span>{{ title }}</span>
+    </div>
+
+    <div class="widget-content">
+      <ng-content></ng-content>
+    </div>
+  </div>
+
+  <!-- Handlers de resize -->
+
+  <!-- Bordes -->
+  <div class="resize-handle top" (mousedown)="startResize($event, 'top')"></div>
+  <div class="resize-handle right" (mousedown)="startResize($event, 'right')"></div>
+  <div class="resize-handle bottom" (mousedown)="startResize($event, 'bottom')"></div>
+  <div class="resize-handle left" (mousedown)="startResize($event, 'left')"></div>
+
+  <!-- Esquinas -->
+  <div class="resize-handle top-left" (mousedown)="startResize($event, 'top-left')"></div>
+  <div class="resize-handle top-right" (mousedown)="startResize($event, 'top-right')"></div>
+  <div class="resize-handle bottom-left" (mousedown)="startResize($event, 'bottom-left')"></div>
+  <div class="resize-handle bottom-right" (mousedown)="startResize($event, 'bottom-right')"></div>
+
+</div>
