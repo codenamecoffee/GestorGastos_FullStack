@@ -64,8 +64,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Entity Framework Migrations snapshot files (optional, si no quieres versionar los snapshots)
-_MigrationsHistory/
+# Entity Framework Core migrations
+Migrations/
 
 # Node / Angular (frontend)
 node_modules/
@@ -106,3 +106,4 @@ npm-packages-offline-cache/
 
 # Script files
 *.ps1
+*.bat
