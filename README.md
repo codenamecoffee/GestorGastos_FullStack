@@ -8,6 +8,22 @@ This project is my **full stack portfolio application**, built to showcase a com
 
 <br>
 
+## 🎬 Demo(s)
+
+> Below are brief demonstrations of the main features available in the currently implemented Transactions Widget. \
+( _Additional widgets and functionalities are planned for future milestones._ )
+
+<br>
+
+| Feature                        | Demo GIF                                      |
+|--------------------------------|-----------------------------------------------|
+| **Drag & Resize Widget**       | ![Drag and Resize](./docs/demo-drag-resize.gif) |
+| **Create a New Transaction**   | ![Create Transaction](./docs/demo-create-transaction.gif) |
+| **Edit a Transaction**         | ![Edit Transaction](./docs/demo-edit-transaction.gif) |
+| **Delete a Transaction**       | ![Delete Transaction](./docs/demo-delete-transaction.gif) |
+| **Filter by Category or Date** | ![Filter Transactions](./docs/demo-filter.gif) |
+
+<br>
 
 ## ⚙️ Tech Stack
 
@@ -92,7 +108,7 @@ GestorGastos_FullStack/
 
 ## 🧩 Current Features
 
-✅ Modular **Widget System** (e.g., `TransaccionesWidget`)  
+✅ Modular **Widget System** (e.g., `TransactionsWidget`)  
 ✅ CRUD operations for transactions (Create, Read, Update, Delete)  
 ✅ Dynamic filtering by category and date  
 ✅ SCSS-based responsive design  
