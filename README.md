@@ -8,6 +8,26 @@ This project is my **full stack portfolio application**, built to showcase a com
 
 <br>
 
+## 🎬 Demo(s)
+
+> Below are brief demonstrations of the main features available in the currently implemented Transactions Widget. \
+( _Additional widgets and functionalities are planned for future milestones._ )
+
+| **Drag & Resize Widget**       | **Create a New Transaction**   |
+|:------------------------------|:-------------------------------|
+| ![Drag and Resize](./docs/demo-drag-resize.gif) | ![Create Transaction](./docs/demo-create-transaction.gif) |
+
+| **Edit a Transaction**         | **Delete a Transaction**       |
+|:------------------------------|:-------------------------------|
+| ![Edit Transaction](./docs/demo-edit-transaction.gif) | ![Delete Transaction](./docs/demo-delete-transaction.gif) |
+
+| **Filter by Category or Date** |                                |
+|:------------------------------|:-------------------------------|
+| ![Filter Transactions](./docs/demo-filter.gif) |  |
+
+
+
+<br>
 
 ## ⚙️ Tech Stack
 
