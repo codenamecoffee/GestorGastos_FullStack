@@ -108,7 +108,7 @@ GestorGastos_FullStack/
 
 ## 🧩 Current Features
 
-✅ Modular **Widget System** (e.g., `TransaccionesWidget`)  
+✅ Modular **Widget System** (e.g., `TransactionsWidget`)  
 ✅ CRUD operations for transactions (Create, Read, Update, Delete)  
 ✅ Dynamic filtering by category and date  
 ✅ SCSS-based responsive design  
