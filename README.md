@@ -175,9 +175,15 @@ However, **future versions** will include:
 
 <br>
 
-## 🧭 Roadmap (Short and Medium-Term goals)
+## 🧭 Roadmap & Project Management
 
-### 🔹Short-Term Goals (next 2 weeks)
+> Development progress is managed through a [GitHub Project Board](https://github.com/users/codenamecoffee/projects/1/views/1),
+organized under a **Kanban workflow** (Backlog → To Do (Current Sprint) → In Progress → Review/QA → Done).
+> Complementarily, [GitHub Milestones](https://github.com/codenamecoffee/GestorGastos_FullStack/milestones)
+define the **project’s strategic goals** over short, medium, and long-term phases.
+
+
+### 🔹[Milestone 1](https://github.com/codenamecoffee/GestorGastos_FullStack/milestone/1) : Short-Term Goals (next 2 weeks)
 
 * 🧩 Implement Main Component — Corkboard
   - Foundation of the visual interface where all widgets will live.
@@ -213,7 +219,7 @@ However, **future versions** will include:
 
 ---
 
-### 🔹Medium-Term Goals (next 4 weeks)
+### 🔹[Milestone 2](https://github.com/codenamecoffee/GestorGastos_FullStack/milestone/2) : Medium-Term Goals (next 4 weeks)
 
 * 🧰 Widget System Expansion
   - Implement multiple interactive widgets:
@@ -245,19 +251,9 @@ However, **future versions** will include:
 
 <br>
 
-> For additional details and current progress, see the [GitHub Project Board](https://github.com/users/codenamecoffee/projects/1/views/1).
+---
 
-<br>
-
-## 💡 Project Vision
-
-GestorGastos began as a personal tool to monitor and optimize daily expenses,
-and has since evolved into a full-stack development learning platform.
-
-> The long-term vision is to create a <i>**modular personal dashboard**</i> — a “digital corkboard”
-that integrates financial tracking, habit monitoring, and productivity widgets powered by data analysis and intelligent automation.
-
-### 🔹Long-Term Goals (next 2 months)
+### 🔹[Milestone 3](https://github.com/codenamecoffee/GestorGastos_FullStack/milestone/3) : Long-Term Goals (next 2 months)
 
 - 🤖 AI-Enhanced Features
     - Transaction recording via camera + AI (optical and contextual recognition).
@@ -275,6 +271,16 @@ that integrates financial tracking, habit monitoring, and productivity widgets p
 - 📈 Advanced Analytics
     - Export reports to PDF.
     - Integrate a real data analysis dashboard with charts and visual summaries.
+
+<br>
+
+## 💡 Project Vision
+
+GestorGastos began as a personal tool to monitor and optimize daily expenses,
+and has since evolved into a full-stack development learning platform.
+
+> The long-term vision is to create a <i>**modular personal dashboard**</i> — a “digital corkboard”
+that integrates financial tracking, habit monitoring, and productivity widgets powered by data analysis and intelligent automation.
 
 <br>
 
@@ -303,5 +309,6 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE)
 
 ## 🛠️ Useful Links
 
+- [GitHub Milestones](https://github.com/codenamecoffee/GestorGastos_FullStack/milestones)
 - [GitHub Project Board](https://github.com/users/codenamecoffee/projects/1/views/1)
 - [Repository](https://github.com/codenamecoffee/GestorGastos_FullStack)
